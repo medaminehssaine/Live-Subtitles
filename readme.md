@@ -69,11 +69,3 @@ Comme d'habitude pour une meilleure qualité de reconnaissance, sous Windows, vo
 
 et sous Linux, vous aurez besoin de PAVUCONTROL (en choisissant MONITOR de votre périphérique audio comme PÉRIPHÉRIQUE D'ENTRÉE)
 ![image](https://user-images.githubusercontent.com/88623122/199517907-76d61acb-3f07-49b6-8f2f-4b6a2b787eff.png)
-
-
-### Licence
-MIT
-
-Consultez mes autres PROJETS DE RECONNAISSANCE VOCALE + TRADUCTION https://github.com/botbahlul?tab=repositories
-
-Offrez-moi un café : https://sociabuzz.com/botbahlul/tribe
